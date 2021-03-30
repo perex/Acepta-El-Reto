@@ -4,7 +4,7 @@ import java.util.Scanner;
  *
  * @author perex
  */
-public class Main {   
+public class Reto283 {   
     
     public static int buscarMax(char[][] mapa, int fila, int columna) {
                
