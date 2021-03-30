@@ -1,9 +1,7 @@
 # Acepta El Reto
 Mis soluciones a algunos ejercicios de "Acepta el reto".
 
-# Problemas
-### Tables
-                    
+## Problemas                    
 Problema  | Solución
 ------------- | -------------
 283: Invirtiendo en Jaén  | [Solución ](https://github.com/perex/Acepta-El-Reto/blob/main/Reto283.java "Solución ")
