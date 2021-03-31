@@ -1,5 +1,5 @@
 # Acepta El Reto
-Mis soluciones a algunos ejercicios de "[Acepta el reto]"(https://www.aceptaelreto.com "Acepta el reto").
+Mis soluciones a algunos ejercicios de "[Acepta el reto](https://www.aceptaelreto.com "Acepta el reto")".
 
 ## Problemas                    
 Problema  | Java | C++
